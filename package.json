@@ -1,0 +1,27 @@
+{
+  "name": "custom-url-shortner",
+  "version": "1.0.0",
+  "description": "Custom URL Shortner in NODEJS MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app",
+    "dev" : "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemis15/Custom-URL-Shortner.git"
+  },
+  "author": "Akash Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemis15/Custom-URL-Shortner/issues"
+  },
+  "homepage": "https://github.com/artemis15/Custom-URL-Shortner#readme",
+  "dependencies": {
+    "config": "^3.2.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.4",
+    "shortid": "^2.2.15",
+    "valid-url": "^1.0.9"
+  }
+}

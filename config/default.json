@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://artemis:Abcd@123@cluster0-xecxc.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "baseURL" : "http://localhost:5000"
+ }
