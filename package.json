@@ -19,7 +19,7 @@
   "homepage": "https://github.com/artemis15/Custom-URL-Shortner#readme",
   "dependencies": {
     "config": "^3.2.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.7.4",
     "shortid": "^2.2.15",
     "valid-url": "^1.0.9"
